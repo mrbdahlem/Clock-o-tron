@@ -1,3 +1,2 @@
-/.micropico
-/.vscode
-/Clock-o-tron.code-workspace
+/.*
+/*.code-workspace
